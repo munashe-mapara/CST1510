@@ -1,0 +1,6 @@
+label,value,limit
+Router_A,120.5,100.0
+Server_01,88.2,100.0
+Switch_B,95.0,90.0
+Database_02,45.0,50.0
+Firewall_C,110.0,100.0
